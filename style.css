@@ -19,7 +19,8 @@ html {
 }
 .box1 {
 	width: 500px;
-	height: 500px;
+  /*edited height to 520px*/
+	height: 520px;
 	background: white;
   opacity: 0.7;
   filter: alpha(opacity=70);
@@ -54,7 +55,7 @@ h1 {
 	border-top: 1px solid black;
 }
 
-
+/*
 .button {
   background-color: #9c9aab;
   border: none;
@@ -70,7 +71,7 @@ h1 {
 }
 .button:hover {opacity: 1}
 
-/*code for the tabs */
+/*code for the tabs
 ul#menu {
 	padding: 0;
 }
@@ -88,3 +89,4 @@ ul#menu li a {
 ul#menu li a:hover {
 	background-color: #7FFFD4;
 }
+*/
